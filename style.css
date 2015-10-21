@@ -1,0 +1,64 @@
+#header {
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+}
+
+#main {
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+}
+
+#footer {
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+}
+
+#links {
+
+	margin-top: 10px;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+
+}
+
+body {
+	background-color: grey;
+}
+
+#text1 {
+	text-align: left;
+}
+
+#text2 {
+	text-align: left;
+}
+
+#text3 {
+
+	text-align: left;
+
+}
+
+#text4 {
+
+	text-align: left;
+
+}
+
+a:hover   
+{	
+
+	color:red; 
+	background-color:grey; 
+	text-decoration:underline;
+
+}
+
+
